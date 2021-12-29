@@ -1,5 +1,5 @@
 {
-	"author": "Jane Doe and Emanuel Melo Borges",
+	"author": "Emanuel Melo Borges",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
